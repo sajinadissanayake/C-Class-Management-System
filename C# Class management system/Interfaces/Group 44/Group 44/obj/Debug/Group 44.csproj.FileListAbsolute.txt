@@ -1,0 +1,48 @@
+C:\Users\newanji\Downloads\C# project\Interfaces\Group 44\Group 44\obj\Debug\Group 44.csprojAssemblyReference.cache
+C:\Users\newanji\Downloads\C# project\Interfaces\Group 44\Group 44\obj\Debug\Group_44.details_delete.resources
+C:\Users\newanji\Downloads\C# project\Interfaces\Group 44\Group 44\obj\Debug\Group_44.login.resources
+C:\Users\newanji\Downloads\C# project\Interfaces\Group 44\Group 44\obj\Debug\Group_44.payments.resources
+C:\Users\newanji\Downloads\C# project\Interfaces\Group 44\Group 44\obj\Debug\Group_44.payment_checking.resources
+C:\Users\newanji\Downloads\C# project\Interfaces\Group 44\Group 44\obj\Debug\Group_44.Properties.Resources.resources
+C:\Users\newanji\Downloads\C# project\Interfaces\Group 44\Group 44\obj\Debug\Group_44.student_registration.resources
+C:\Users\newanji\Downloads\C# project\Interfaces\Group 44\Group 44\obj\Debug\Group 44.csproj.GenerateResource.cache
+C:\Users\newanji\Downloads\C# project\Interfaces\Group 44\Group 44\obj\Debug\Group 44.csproj.CoreCompileInputs.cache
+C:\Users\newanji\Downloads\C# project\Interfaces\Group 44\Group 44\bin\Debug\Group 44.exe.config
+C:\Users\newanji\Downloads\C# project\Interfaces\Group 44\Group 44\bin\Debug\Group 44.exe
+C:\Users\newanji\Downloads\C# project\Interfaces\Group 44\Group 44\bin\Debug\Group 44.pdb
+C:\Users\newanji\Downloads\C# project\Interfaces\Group 44\Group 44\obj\Debug\Group 44.exe
+C:\Users\newanji\Downloads\C# project\Interfaces\Group 44\Group 44\obj\Debug\Group 44.pdb
+C:\Users\Sajina\Downloads\C#\Interfaces\Group 44\Group 44\bin\Debug\Group 44.exe.config
+C:\Users\Sajina\Downloads\C#\Interfaces\Group 44\Group 44\bin\Debug\Group 44.exe
+C:\Users\Sajina\Downloads\C#\Interfaces\Group 44\Group 44\bin\Debug\Group 44.pdb
+C:\Users\Sajina\Downloads\C#\Interfaces\Group 44\Group 44\obj\Debug\Group 44.csprojAssemblyReference.cache
+C:\Users\Sajina\Downloads\C#\Interfaces\Group 44\Group 44\obj\Debug\Group_44.details_delete.resources
+C:\Users\Sajina\Downloads\C#\Interfaces\Group 44\Group 44\obj\Debug\Group_44.details_table.resources
+C:\Users\Sajina\Downloads\C#\Interfaces\Group 44\Group 44\obj\Debug\Group_44.details_update.resources
+C:\Users\Sajina\Downloads\C#\Interfaces\Group 44\Group 44\obj\Debug\Group_44.login.resources
+C:\Users\Sajina\Downloads\C#\Interfaces\Group 44\Group 44\obj\Debug\Group_44.main_menu.resources
+C:\Users\Sajina\Downloads\C#\Interfaces\Group 44\Group 44\obj\Debug\Group_44.payments.resources
+C:\Users\Sajina\Downloads\C#\Interfaces\Group 44\Group 44\obj\Debug\Group_44.payment_checking.resources
+C:\Users\Sajina\Downloads\C#\Interfaces\Group 44\Group 44\obj\Debug\Group_44.Properties.Resources.resources
+C:\Users\Sajina\Downloads\C#\Interfaces\Group 44\Group 44\obj\Debug\Group_44.student_registration.resources
+C:\Users\Sajina\Downloads\C#\Interfaces\Group 44\Group 44\obj\Debug\Group 44.csproj.GenerateResource.cache
+C:\Users\Sajina\Downloads\C#\Interfaces\Group 44\Group 44\obj\Debug\Group 44.csproj.CoreCompileInputs.cache
+C:\Users\Sajina\Downloads\C#\Interfaces\Group 44\Group 44\obj\Debug\Group 44.exe
+C:\Users\Sajina\Downloads\C#\Interfaces\Group 44\Group 44\obj\Debug\Group 44.pdb
+E:\C#\Interfaces\Group 44\Group 44\bin\Debug\Group 44.exe.config
+E:\C#\Interfaces\Group 44\Group 44\bin\Debug\Group 44.exe
+E:\C#\Interfaces\Group 44\Group 44\bin\Debug\Group 44.pdb
+E:\C#\Interfaces\Group 44\Group 44\obj\Debug\Group 44.csprojAssemblyReference.cache
+E:\C#\Interfaces\Group 44\Group 44\obj\Debug\Group_44.details_delete.resources
+E:\C#\Interfaces\Group 44\Group 44\obj\Debug\Group_44.details_table.resources
+E:\C#\Interfaces\Group 44\Group 44\obj\Debug\Group_44.details_update.resources
+E:\C#\Interfaces\Group 44\Group 44\obj\Debug\Group_44.login.resources
+E:\C#\Interfaces\Group 44\Group 44\obj\Debug\Group_44.main_menu.resources
+E:\C#\Interfaces\Group 44\Group 44\obj\Debug\Group_44.payments.resources
+E:\C#\Interfaces\Group 44\Group 44\obj\Debug\Group_44.payment_checking.resources
+E:\C#\Interfaces\Group 44\Group 44\obj\Debug\Group_44.Properties.Resources.resources
+E:\C#\Interfaces\Group 44\Group 44\obj\Debug\Group_44.student_registration.resources
+E:\C#\Interfaces\Group 44\Group 44\obj\Debug\Group 44.csproj.GenerateResource.cache
+E:\C#\Interfaces\Group 44\Group 44\obj\Debug\Group 44.csproj.CoreCompileInputs.cache
+E:\C#\Interfaces\Group 44\Group 44\obj\Debug\Group 44.exe
+E:\C#\Interfaces\Group 44\Group 44\obj\Debug\Group 44.pdb
